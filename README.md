@@ -1,2 +1,2 @@
 # Blockchain_Project
-Blockchain | Solidity | Smart Contracts | Ethereum
+Blockchain | Solidity | Smart Contracts | Ethereum |
